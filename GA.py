@@ -27,7 +27,7 @@ DATA_XLSX = os.getenv("DATA_XLSX", "/home/cjli/Python/MCMCpy/DEPvelocityRAW_Cont
 
 LAMBDA_W = float(os.getenv("LAMBDA_W", "0.2"))
 USE_ALT_A = bool(int(os.getenv("USE_ALT_A", "1")))
-USE_DERIV = True
+USE_DERIV = False
 
 # Fit target
 FIT_TO_MEAN = True
