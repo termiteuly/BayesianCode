@@ -75,7 +75,7 @@ except Exception:
 
 # ============ Constants & Priors ============
 eps0   = 8.854e-12
-E      = 25000.0
+E      = 30000.0
 D      = 1e-3
 r      = 3e-6 + 55e-9      # total particle radius R
 tmem   = 5.0e-9
