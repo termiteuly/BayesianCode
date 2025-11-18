@@ -139,7 +139,7 @@ def print_pretty_sens_cos(title, sens_vec, cosM, labels):
 
 # ---------- Constants ----------
 eps0   = 8.854e-12
-E      = 25000.0
+E      = 30000.0
 D      = 1e-3
 ep_med = 80.0 * eps0
 si_med = 0.1
